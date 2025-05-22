@@ -1,0 +1,6 @@
+RBC
+Schistocyte
+PLT
+GRAN
+MONO
+LYM
